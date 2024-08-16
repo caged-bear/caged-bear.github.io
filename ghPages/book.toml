@@ -1,6 +1,9 @@
 [book]
 authors = ["O-tz"]
-language = "en"
-multilingual = false
+language = "ja"
+multilingual = true
 src = "src"
 title = "オーツの檻"
+
+[build]
+build-dir = "../docs"
